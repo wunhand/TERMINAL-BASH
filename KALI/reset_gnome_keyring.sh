@@ -1,0 +1,1 @@
+rm ~/.local/share/keyrings/login.keyring
